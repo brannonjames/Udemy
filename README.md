@@ -15,9 +15,9 @@ This repo containers some various notes and projects I made while working throug
 
 ### Random Screenshots
 
-Tech Stack Native App
+Manager app using React Native, Redux, and Firebase
 
-![tech-stack-app](https://i.imgur.com/qymt833.png)
+![manager-app](https://i.imgur.com/KjzbKaE.png)
 
 Creating Higher Order Components
 
